@@ -7,6 +7,7 @@ The Password Security Automation Agent is a fully offline, rule-based, multi-age
 This project demonstrates enterprise-grade automation agent design with a strong focus on security, transparency, auditability, and scalability.
 
 🚀 Key Features
+
 🔍 Password strength analysis (entropy + crack-time estimation)
 🚨 Risk detection (patterns, weak structures, policy violations)
 🔐 Enterprise password policy enforcement
