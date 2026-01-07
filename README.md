@@ -1,6 +1,6 @@
-🔐 Password Security Automation Agent
-Author: Prajwal Adhav
-Capstone Project: Kaggle Agents Intensive – Enterprise Agents Track
+**🔐 Password Security Automation Agent**
+**Author: Prajwal Adhav**
+**Capstone Project: Kaggle Agents Intensive – Enterprise Agents Track**
 
 ---
 
